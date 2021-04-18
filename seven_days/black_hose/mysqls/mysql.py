@@ -74,10 +74,10 @@ sex = ["M", "F", "F", "F", "M"]
 values_01 = zip(ids, name, age, sex)
 try:
     # 表格中新插入列
-    sql_alter01 = 'ALTER TABLE test ADD (age int, sex varchar(1))'
+    sql_alter01 = """ALTER TABLE test ADD (age int, sex varchar(1))"""
 
     # 表格中插入数据
-    sql_insert_01 = 'INSERT INTO test VALUES (%s, %s, %s, %s)'
+    sql_insert_01 = """INSERT INTO test VALUES (%s, %s, %s, %s)"""
 
     # 执行sql语句
     cursor.executemany(sql_insert_01, values_01)
