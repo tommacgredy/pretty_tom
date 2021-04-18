@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9d47434-b762-4d5f-87c8-02b9dff5d711" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seven_days" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/oa_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/test_excel结合ddt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="55" column="94" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="94" />
+              <folding>
+                <element signature="e#14#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black_hose/jichu/day_003.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7285">
+              <caret line="235" column="26" selection-start-line="235" selection-start-column="26" selection-end-line="235" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black_hose/jichu/day_001.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4030">
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black_hose/mysqls/mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/requests_respaonse/requests_day001.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/requests_respaonse/requests_day002_response.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_Cookie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1271">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>browser</find>
+      <find>list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>list_01</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/black_hose/day_001.py" />
+        <option value="$PROJECT_DIR$/black_hose/day_002.py" />
+        <option value="$PROJECT_DIR$/black_hose/jiekouceshi_day01.py" />
+        <option value="$PROJECT_DIR$/black_hose/requests_day001.py" />
+        <option value="$PROJECT_DIR$/black_hose/jichu/students_info.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/test.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/oa_login.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Testcase/testUnit.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Testcase/Repots.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Testcase/allTest.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Testcase/myunit.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcase/allTest.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/myunit.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/oa_login.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/ddt练习.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/excel练习.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/excel.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/allTest.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO01/basepase/home_base.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/page/loginpage.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/testcases/test_login.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/log日志写进文件中.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/common/helper.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/common/get_image.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/all_test.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/PO/common/own_unit.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/excel结合ddt.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/run_main.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/test_excel结合ddt.py" />
+        <option value="$PROJECT_DIR$/black_hose/jichu/day_002.py" />
+        <option value="$PROJECT_DIR$/black_hose/mysqls/mysql.py" />
+        <option value="$PROJECT_DIR$/black_hose/jichu/day_001.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/requsts_day001.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/requests_day002.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/requests_day001.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/requests_day003.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_session.py" />
+        <option value="$PROJECT_DIR$/black_hose/jichu/day_003.py" />
+        <option value="$PROJECT_DIR$/../../prety_tomorrow/BiliVideo/bilivideo.py" />
+        <option value="$PROJECT_DIR$/atomatic_test/API_test/requests_respaonse/requests_day002_response.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="800" />
+    <option name="width" value="1735" />
+    <option name="height" value="1380" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seven_days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seven_days" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="seven_days" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\python_projects\seven_days" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="seven_days" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="seven_days" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_projects\seven_days\atomatic_test\API_test\cookies_session" />
+      <recent name="D:\python_projects\seven_days\atomatic_test\API_test\requests_respaonse" />
+      <recent name="D:\python_projects\seven_days\atomatic_test\UI_test\New_Login" />
+      <recent name="D:\python_projects\seven_days\atomatic_test\UI_test\PO" />
+      <recent name="D:\python_projects\seven_days\atomatic_test\UI_test\PO01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.day_003">
+    <configuration name="day_003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/black_hose/jichu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/black_hose/jichu/day_003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests_day001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atomatic_test/API_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python_projects\seven_days\atomatic_test\API_test\requests_respaonse\requests_day001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests_day002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atomatic_test/API_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python_projects\seven_days\atomatic_test\API_test\requests_respaonse\requests_day002_response.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests_day003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atomatic_test/API_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python_projects\seven_days\atomatic_test\API_test\cookies_session\requests_Cookie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests_session" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atomatic_test/API_test/cookies_session" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_session.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in oa_login.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="seven_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atomatic_test/UI_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/oa_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.requests_day002" />
+      <item itemvalue="Python.requests_day001" />
+      <item itemvalue="Python.requests_day003" />
+      <item itemvalue="Python.requests_session" />
+      <item itemvalue="Python.day_003" />
+      <item itemvalue="Python tests.Unittests in oa_login.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day_003" />
+        <item itemvalue="Python.requests_session" />
+        <item itemvalue="Python.requests_day003" />
+        <item itemvalue="Python.requests_day001" />
+        <item itemvalue="Python.requests_day002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d47434-b762-4d5f-87c8-02b9dff5d711" name="Default Changelist" comment="" />
+      <created>1601823437713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601823437713</updated>
+      <workItem from="1601823438952" duration="10060000" />
+      <workItem from="1601845386065" duration="3022000" />
+      <workItem from="1601881127495" duration="8286000" />
+      <workItem from="1601970772223" duration="4384000" />
+      <workItem from="1603810692539" duration="918000" />
+      <workItem from="1603872544719" duration="630000" />
+      <workItem from="1603943959957" duration="2759000" />
+      <workItem from="1604140927999" duration="4957000" />
+      <workItem from="1604217949425" duration="1202000" />
+      <workItem from="1604298268475" duration="1894000" />
+      <workItem from="1604339433258" duration="592000" />
+      <workItem from="1604374320450" duration="1197000" />
+      <workItem from="1604514947906" duration="4051000" />
+      <workItem from="1604519072363" duration="1730000" />
+      <workItem from="1604520837149" duration="949000" />
+      <workItem from="1604521974850" duration="43000" />
+      <workItem from="1604522374746" duration="839000" />
+      <workItem from="1604523248998" duration="1399000" />
+      <workItem from="1604734881074" duration="6286000" />
+      <workItem from="1604751430876" duration="7986000" />
+      <workItem from="1604768909381" duration="6811000" />
+      <workItem from="1604882796464" duration="12410000" />
+      <workItem from="1605181718086" duration="607000" />
+      <workItem from="1605268220428" duration="599000" />
+      <workItem from="1605340946873" duration="601000" />
+      <workItem from="1605507510083" duration="2348000" />
+      <workItem from="1605510195817" duration="12662000" />
+      <workItem from="1605552617574" duration="1166000" />
+      <workItem from="1605686047940" duration="592000" />
+      <workItem from="1605770773542" duration="4080000" />
+      <workItem from="1606378755141" duration="1198000" />
+      <workItem from="1606832878398" duration="597000" />
+      <workItem from="1606895283080" duration="1198000" />
+      <workItem from="1606986984818" duration="1194000" />
+      <workItem from="1607496248979" duration="594000" />
+      <workItem from="1607856259727" duration="8236000" />
+      <workItem from="1608018315481" duration="2049000" />
+      <workItem from="1608525978835" duration="596000" />
+      <workItem from="1608785684359" duration="958000" />
+      <workItem from="1609860816655" duration="2030000" />
+      <workItem from="1609939420563" duration="697000" />
+      <workItem from="1610023109507" duration="10123000" />
+      <workItem from="1610039790378" duration="5602000" />
+      <workItem from="1610215198899" duration="7110000" />
+      <workItem from="1610276415835" duration="1238000" />
+      <workItem from="1610351382867" duration="593000" />
+      <workItem from="1610442034575" duration="12421000" />
+      <workItem from="1610528825476" duration="6134000" />
+      <workItem from="1611131464074" duration="5521000" />
+      <workItem from="1611198027141" duration="5230000" />
+      <workItem from="1611653092005" duration="6089000" />
+      <workItem from="1611822890843" duration="1691000" />
+      <workItem from="1611944466774" duration="782000" />
+      <workItem from="1612352190294" duration="11635000" />
+      <workItem from="1612408385334" duration="15214000" />
+      <workItem from="1612958161508" duration="1495000" />
+      <workItem from="1616699321336" duration="253000" />
+      <workItem from="1616699607207" duration="211000" />
+      <workItem from="1617550558938" duration="2258000" />
+      <workItem from="1617554187971" duration="678000" />
+      <workItem from="1618741504629" duration="2547000" />
+      <workItem from="1618775366062" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 17h 38m 07s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 17h 39m 40s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 17h 42m 18s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 17h 43m 43s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 17h 45m 11s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ddt练习_py - 2020.11.09 at 18h 31m 26s.xml">
+      <configuration name="Unittests in ddt练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_excel结合ddt_py - 2020.12.14 at 03h 53m 12s.xml">
+      <configuration name="Unittests in test_excel结合ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_excel结合ddt_py - 2020.12.14 at 03h 57m 52s.xml">
+      <configuration name="Unittests in test_excel结合ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_excel结合ddt_py - 2020.12.14 at 04h 01m 10s.xml">
+      <configuration name="Unittests in test_excel结合ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_excel结合ddt_py - 2020.12.14 at 04h 04m 57s.xml">
+      <configuration name="Unittests in test_excel结合ddt.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="221294000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994985" visible="true" weight="0.19130869" />
+      <window_info id="Structure" order="1" sideWeight="0.5005015" side_tool="true" weight="0.18463074" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005015" side_tool="true" weight="0.18463074" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32964823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32964823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32964823" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32964823" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seven_days$search_task.coverage" NAME="search_task Coverage Results" MODIFIED="1604519771270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python_test/test_case" />
+    <SUITE FILE_PATH="coverage/seven_days$excel.coverage" NAME="excel练习 Coverage Results" MODIFIED="1605509751909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$log__1_.coverage" NAME="log日志写进文件中 (1) Coverage Results" MODIFIED="1605552469482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_for_oa_login_Login_test_login_usrname_error.coverage" NAME="Unittests for oa_login.Login.test_login_usrname_error Coverage Results" MODIFIED="1604751533196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_for_oa_login_Login_test_login_success.coverage" NAME="Unittests for oa_login.Login.test_login_success Coverage Results" MODIFIED="1604750711485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test" />
+    <SUITE FILE_PATH="coverage/seven_days$requsts_day001.coverage" NAME="requsts_day001 Coverage Results" MODIFIED="1610224576287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/API_test" />
+    <SUITE FILE_PATH="coverage/seven_days$test.coverage" NAME="test Coverage Results" MODIFIED="1604738508881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test" />
+    <SUITE FILE_PATH="coverage/seven_days$day_001.coverage" NAME="day_001 Coverage Results" MODIFIED="1610046721791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hose/jichu" />
+    <SUITE FILE_PATH="coverage/seven_days$bilivideo.coverage" NAME="bilivideo Coverage Results" MODIFIED="1603966296433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../prety_tomorrow/BiliVideo" />
+    <SUITE FILE_PATH="coverage/seven_days$day_003.coverage" NAME="day_003 Coverage Results" MODIFIED="1612442688622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hose/jichu" />
+    <SUITE FILE_PATH="coverage/seven_days$requests_day003.coverage" NAME="requests_day003 Coverage Results" MODIFIED="1610470672963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/API_test" />
+    <SUITE FILE_PATH="coverage/seven_days$allTest.coverage" NAME="allTest Coverage Results" MODIFIED="1605519537574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases" />
+    <SUITE FILE_PATH="coverage/seven_days$own_unit.coverage" NAME="own_unit Coverage Results" MODIFIED="1605783033338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/PO/common" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_in_test_excelddt_py.coverage" NAME="Unittests in test_excel结合ddt.py Coverage Results" MODIFIED="1607889841339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_in_oa_login_py.coverage" NAME="Unittests in oa_login.py Coverage Results" MODIFIED="1604751682955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test" />
+    <SUITE FILE_PATH="coverage/seven_days$os.coverage" NAME="os Coverage Results" MODIFIED="1601845177071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python/Lib" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_for_oa_login_Login.coverage" NAME="Unittests for oa_login.Login Coverage Results" MODIFIED="1604751227725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test" />
+    <SUITE FILE_PATH="coverage/seven_days$log.coverage" NAME="log日志写进文件中 Coverage Results" MODIFIED="1605552419133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports" />
+    <SUITE FILE_PATH="coverage/seven_days$requests_day002.coverage" NAME="requests_day002 Coverage Results" MODIFIED="1610446745679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/API_test" />
+    <SUITE FILE_PATH="coverage/seven_days$requests_session.coverage" NAME="requests_session Coverage Results" MODIFIED="1610534759712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/API_test/cookies_session" />
+    <SUITE FILE_PATH="coverage/seven_days$Unittests_in_ddt_py.coverage" NAME="Unittests in ddt练习.py Coverage Results" MODIFIED="1604917846612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$students_info.coverage" NAME="students_info Coverage Results" MODIFIED="1604301536387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hose/jichu" />
+    <SUITE FILE_PATH="coverage/seven_days$excelddt.coverage" NAME="excel结合ddt Coverage Results" MODIFIED="1605521670088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$requests_day001.coverage" NAME="requests_day001 Coverage Results" MODIFIED="1610453999012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/API_test" />
+    <SUITE FILE_PATH="coverage/seven_days$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1607890201198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atomatic_test/UI_test/New_Login" />
+    <SUITE FILE_PATH="coverage/seven_days$day_002.coverage" NAME="day_002 Coverage Results" MODIFIED="1607889586622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hose/jichu" />
+    <SUITE FILE_PATH="coverage/seven_days$login.coverage" NAME="login Coverage Results" MODIFIED="1604519712912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python_test/test_case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/black_hose/pachong/requests_day001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#9#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/xlrd/sheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="336" column="13" selection-start-line="336" selection-start-column="13" selection-end-line="336" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/ddt练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1211">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/excel练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hose/jichu/students_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_test/lianxi/login_test_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/Reports/raaeaapaaoaaraataa.aahaataamaal" />
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_16_17_41_13-report.html" />
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_16_17_50_34report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_16_17_51_32-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/HTMLTestRunner/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1994">
+          <caret line="610" column="8" selection-start-line="610" selection-start-column="8" selection-end-line="610" selection-end-column="8" />
+          <folding>
+            <element signature="e#3215#3230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_16_18_05_20report.html" />
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_16_18_14_30report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/logTest.txt" />
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/log日志写进文件中.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/basepase/home_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/page/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_11_19_18_52_59-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/testcases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/Reports/2020_12_14_04_10_01-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/common/own_unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/common/helper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="816" selection-start-line="816" selection-end-line="816" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="115" column="29" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/PO/common/get_image.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/allTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="873" column="8" selection-start-line="873" selection-start-column="8" selection-end-line="873" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="336" column="6" selection-start-line="336" selection-start-column="6" selection-end-line="336" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hose/jichu/day_002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="165" column="15" selection-start-line="165" selection-start-column="15" selection-end-line="165" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/magic-python/exts/chinese_search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/You-are-Pythonista/Homework/303001274/lz_episode_01/fibonacci_sequence.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/You-are-Pythonista/Homework/303001274/lz_episode_01/geometric_grade.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/You-are-Pythonista/Homework/303001274/lz_episode_01/get_prime_number.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/You-are-Pythonista/PracticeProject/FileWindow/ZhouWei/slide_windows01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/You-are-Pythonista/PythonExercise/App/2019_618_PickMaomao/2019_618_PickMaomao.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../prety_tomorrow/BiliVideo/bilivideo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1101">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/Login_Testcases/oa_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/UI_test/New_Login/test_excel结合ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="55" column="94" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="94" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hose/jichu/day_003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7285">
+          <caret line="235" column="26" selection-start-line="235" selection-start-column="26" selection-end-line="235" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hose/jichu/day_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4030">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hose/mysqls/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/requests_respaonse/requests_day001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_Cookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/cookies_session/requests_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomatic_test/API_test/requests_respaonse/requests_day002_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
